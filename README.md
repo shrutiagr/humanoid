@@ -1,4 +1,4 @@
 # humanoid
 codes of humanoid
-fghjklkjhgfghj
+dont write useless codes
 ghjkl;
